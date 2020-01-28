@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lets Chat</string>
+    <string name="no_users_found">No users found!</string>
+    <string name="login">Login</string>
+    <string name="enter_username">enter username</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="write_a_message">Type a message</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="enter_password">enter_password</string>
+    <string name="register">Register</string>
+
+    <string name="announcements"> Announcements </string>
+    <string name="chats">Chats</string>
+    <string name="lists">Lists</string>
+    <string name="polls">Polls</string>
+
+    <string name="chat1"> Chat 1 </string>
+    <string name="chat2"> Chat 2 </string>
+    <string name="chat3"> Chat 3 </string>
+    <string name="chat4"> Chat 4 </string>
+    <string name="chat5"> Chat 5 </string>
+    <string name="chat6"> Chat 6 </string>
+    <string name="chat7"> Chat 7 </string>
+    <string name="chat8"> Chat 8 </string>
+    <string name="chat9"> Chat 9 </string>
+    <string name="chat10"> Chat 10 </string>
+    <string name="name">Name</string>
+
+    <string name="input_placeholder">Write a message</string>
+</resources>
